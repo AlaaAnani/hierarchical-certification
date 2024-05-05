@@ -1,0 +1,7 @@
+*.out
+*.pth
+*.pyc
+*.sh
+graph_images/
+log/*
+coco_table_local.out
